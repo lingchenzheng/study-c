@@ -23,6 +23,16 @@ long long: 8个字节
 
 2. 浮点数
 `float`,`double`,`long double`
+
+浮点输入输出
+
+%f  float
+%lf double
+
+字符输入输出
+
+%c char
+
 3. 逻辑
 `bool`
 4. 指针
